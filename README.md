@@ -3,4 +3,4 @@
 This project includes basic Python scripts for learning:
 - Python fundamentals
 
-## Folder Structure
+## 11/07/2025
